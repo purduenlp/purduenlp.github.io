@@ -5,6 +5,7 @@ permalink: /schedule/
 ---
 
 # Group Meeting Schedule -- Fall2016
+
 ## Thursday 4:30-5:30pm, Lawson 2150
 -----
 
