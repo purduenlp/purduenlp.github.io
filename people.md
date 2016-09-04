@@ -6,11 +6,7 @@ permalink: /people/
 
 ---
 
-| Photo | Bio |
-| :---------- | :------------ |
-| ![alt text](/images/person-place-holder.jpg) | Text |
-
-![alt text](/images/person-place-holder.jpg) &nbsp;&nbsp;[**Dan Goldwasser**](http://dan-goldwasser.com/) <br> &nbsp;&nbsp; Dr. Goldwasser is an assistant professor at the department of computer science at Purdue university. Before that he was a postdoctoral researcher at the University of Maryland in College Park. He completed my Ph.D. studies at the University of Illinois at Urbana-Champaign in the department of Computer Science. <br> &nbsp;&nbsp; He is currently working on applying machine learning approaches to natural language processing problems. He is broadly interested in connecting natural language with real world scenarios, and using them to guide natural language understanding.
+<img align="left" src="/images/person-place-holder.jpg"> &nbsp;&nbsp;[**Dan Goldwasser**](http://dan-goldwasser.com/) <br> &nbsp;&nbsp; Dr. Goldwasser is an assistant professor at the department of computer science at Purdue university. Before that he was a postdoctoral researcher at the University of Maryland in College Park. He completed my Ph.D. studies at the University of Illinois at Urbana-Champaign in the department of Computer Science. <br> &nbsp;&nbsp; He is currently working on applying machine learning approaches to natural language processing problems. He is broadly interested in connecting natural language with real world scenarios, and using them to guide natural language understanding.
 
 | Photo | Bio |
 | :---------- | :------------ |
