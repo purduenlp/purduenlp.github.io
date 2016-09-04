@@ -70,15 +70,19 @@ table tbody tr:nth-child(2n) {
     background: rgba(158,188,226,0.12);
 }
 
-table tr:hover {
-    background: #efefef; /*鼠标悬浮时该行改变背景色*/
-}
-
 table th {
     white-space: nowrap; /*表头内容强制在一行显示*/
 }
 
 table td:nth-child(1) {
+    white-space: nowrap; /*第一列单元格内容不换行*/
+}
+
+table td:nth-child(2) {
+    white-space: nowrap; /*第一列单元格内容不换行*/
+}
+
+table td:nth-child(4) {
     white-space: nowrap; /*第一列单元格内容不换行*/
 }
 
