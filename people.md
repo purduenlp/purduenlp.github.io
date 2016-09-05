@@ -7,17 +7,11 @@ permalink: /people/
 ---
 
 | :----------: | :------------ |
-| <img align="middle" src="/images/person-place-holder.jpg"> | &nbsp;&nbsp;[**Dan Goldwasser**](http://dan-goldwasser.com/) <br> &nbsp;&nbsp; Dr. Goldwasser is an assistant professor at the department of computer science at Purdue university. Before that he was a postdoctoral researcher at the University of Maryland in College Park. He completed my Ph.D. studies at the University of Illinois at Urbana-Champaign in the department of Computer Science. <br> &nbsp;&nbsp; He is currently working on applying machine learning approaches to natural language processing problems. He is broadly interested in connecting natural language with real world scenarios, and using them to guide natural language understanding. |
-| ![alt text](/images/person-place-holder.jpg) | &nbsp;&nbsp;[**Kristen Marie Johnson**](https://www.cs.purdue.edu/homes/john1187/) <br> &nbsp;&nbsp; Kristen is a second year member of PurdueNLP. Her research focuses on the application of NLP methods and graphical models to the analysis of political discourse on Twitter. She is the CS representative for the Women in Science Program (WISP) and a founding member of the Purdue Women in CS group. In her free time she enjoys yoga, photography, gardening, watercolor painting, and baking.|
-| ![alt text](/images/person-place-holder.jpg) | &nbsp;&nbsp;[**Xiao (Cosmo) Zhang**](https://www.cs.purdue.edu/homes/zhang923/) <br> |
+| ![alt text][Danphoto] | &nbsp;&nbsp;[**Dan Goldwasser**](http://dan-goldwasser.com/) <br> &nbsp;&nbsp; Dr. Goldwasser is an assistant professor at the department of computer science at Purdue university. Before that he was a postdoctoral researcher at the University of Maryland in College Park. He completed my Ph.D. studies at the University of Illinois at Urbana-Champaign in the department of Computer Science. <br> &nbsp;&nbsp; He is currently working on applying machine learning approaches to natural language processing problems. He is broadly interested in connecting natural language with real world scenarios, and using them to guide natural language understanding. |
+| ![alt text][Kristenphoto] | &nbsp;&nbsp;[**Kristen Marie Johnson**](https://www.cs.purdue.edu/homes/john1187/) <br> &nbsp;&nbsp; Kristen is a second year member of PurdueNLP. Her research focuses on the application of NLP methods and graphical models to the analysis of political discourse on Twitter. She is the CS representative for the Women in Science Program (WISP) and a founding member of the Purdue Women in CS group. In her free time she enjoys yoga, photography, gardening, watercolor painting, and baking.|
+| ![alt text][Cosmophoto] | &nbsp;&nbsp;[**Xiao (Cosmo) Zhang**](https://www.cs.purdue.edu/homes/zhang923/) <br> |
 
-<table>
-<tr>
-<td><img align="middle" src="/images/person-place-holder.jpg"></td>
-<td>&nbsp;&nbsp;<a href="http://dan-goldwasser.com/"><strong>Dan Goldwasser</strong></a> <br> &nbsp;&nbsp; Dr. Goldwasser is an assistant professor at the department of computer science at Purdue university. Before that he was a postdoctoral researcher at the University of Maryland in College Park. He completed my Ph.D. studies at the University of Illinois at Urbana-Champaign in the department of Computer Science. <br> &nbsp;&nbsp; He is currently working on applying machine learning approaches to natural language processing problems. He is broadly interested in connecting natural language with real world scenarios, and using them to guide natural language understanding.</td>
-</tr>
-<tr>
-<td><img align="middle" src="/images/person-place-holder.jpg"></td>
-<td>&nbsp;&nbsp;<a href="https://www.cs.purdue.edu/homes/john1187/"><strong>Kristen Marie Johnson</strong></a> <br> &nbsp;&nbsp; Kristen is a second year member of PurdueNLP. Her research focuses on the application of NLP methods and graphical models to the analysis of political discourse on Twitter. She is the CS representative for the Women in Science Program (WISP) and a founding member of the Purdue Women in CS group. In her free time she enjoys yoga, photography, gardening, watercolor painting, and baking.</td>
-</tr>
-</table>
+[Danphoto]: /images/person-place-holder.jpg
+[Kristenphoto]: /images/person-place-holder.jpg
+
+[Cosmophoto]: /images/person-place-holder.jpg
