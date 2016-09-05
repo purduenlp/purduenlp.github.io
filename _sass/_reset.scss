@@ -57,7 +57,7 @@ table th,
 table td {
   height: 35px; /*统一每一行的默认高度*/
   border: 1px solid #dedede; /*内部边框样式*/
-  padding: 0 10px; /*内边距*/
+  padding: 10px; /*内边距*/
 }
 
 table th {
@@ -76,6 +76,11 @@ table th {
 
 table td:nth-child(1) {
     white-space: nowrap; /*第一列单元格内容不换行*/
+    vertical-align: middle;
+}
+
+table td:nth-child(2) {
+    vertical-align: top;
 }
 
 table td:nth-child(3) {
