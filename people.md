@@ -22,7 +22,7 @@ permalink: /people/
 [Kristenphoto]: /images/kristen.jpg
 [Kristenweb]: https://www.cs.purdue.edu/homes/john1187/ "Kristen Marie Johnson"
 
-[Cosmophoto]: /images/person-place-holder.jpg
+[Cosmophoto]: /images/cosmo.jpg
 [Cosmoweb]: https://www.cs.purdue.edu/homes/zhang923/ "Cosmo Zhang"
 
 [Diphoto]: /images/person-place-holder.jpg
