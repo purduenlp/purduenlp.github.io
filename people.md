@@ -19,7 +19,7 @@ permalink: /people/
 [Danphoto]: /images/dan.jpg
 [Danweb]: https://www.cs.purdue.edu/homes/dgoldwas/ "Dan Goldwasser"
 
-[Kristenphoto]: /images/person-place-holder.jpg
+[Kristenphoto]: /images/kristen.jpg
 [Kristenweb]: https://www.cs.purdue.edu/homes/john1187/ "Kristen Marie Johnson"
 
 [Cosmophoto]: /images/person-place-holder.jpg
