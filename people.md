@@ -38,7 +38,7 @@ permalink: /people/
 [Itaweb]: https://purduenlp.github.io/people/
 
 [Pranjalphoto]: /images/pranjal.jpg
-[Pranjalweb]: https://purduenlp.github.io/people/
+[Pranjalweb]: http://pranjal.strikingly.com/
 
 [Mahakphoto]: /images/mahak.jpg
 [Mahakweb]: https://www.cs.purdue.edu/homes/mgoindan/ "Mahak Goindani"
