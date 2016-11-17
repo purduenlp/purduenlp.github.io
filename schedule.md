@@ -11,6 +11,7 @@ permalink: /schedule/
 
 | Date | Topic/Paper | Moderator | Teach-Me |
 |:------:|:----------|:----------:|:----------:|
+| Nov 17 | [**Towards Universal Paraphrastic Sentence Embeddings**](https://arxiv.org/pdf/1511.08198v3.pdf) | *Kristen Marie Johnson* | |
 | Nov 10| [**Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks**](http://ttic.uchicago.edu/%7Ekgimpel/papers/he+etal.emnlp15.pdf) | *María Leonor Pacheco* | |
 | Nov 3 | [**SemEval-2016 Task 1: Necessity for diversity; combining recursive autoencoders WordNet and ensemble methods to measure semantic similarity**](http://aclweb.org/anthology/S/S16/S16-1091.pdf) | *Mahak Goindani* | |
 | Oct 20 | [**Learning to Compose Neural Networks for Question Answering**](https://arxiv.org/pdf/1601.01705v4.pdf) | *María Leonor Pacheco* | |
