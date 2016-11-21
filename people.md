@@ -28,7 +28,7 @@ permalink: /people/
 [Diphoto]: /images/di.jpeg
 [Diweb]: https://purduenlp.github.io/people/
 
-[Changphoto]: /images/person-place-holder.jpg
+[Changphoto]: /images/chang.jpg
 [Changweb]: https://purduenlp.github.io/people/
 
 [Mariaphoto]: /images/maria.png
